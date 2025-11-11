@@ -1,0 +1,15 @@
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\bin\Debug\net8.0\HelloWorld_Magana_Nathan.exe
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\bin\Debug\net8.0\HelloWorld_Magana_Nathan.deps.json
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\bin\Debug\net8.0\HelloWorld_Magana_Nathan.runtimeconfig.json
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\bin\Debug\net8.0\HelloWorld_Magana_Nathan.dll
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\bin\Debug\net8.0\HelloWorld_Magana_Nathan.pdb
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\obj\Debug\net8.0\HelloWorld_Magana_Nathan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\obj\Debug\net8.0\HelloWorld_Magana_Nathan.AssemblyInfoInputs.cache
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\obj\Debug\net8.0\HelloWorld_Magana_Nathan.AssemblyInfo.cs
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\obj\Debug\net8.0\HelloWorld_Magana_Nathan.csproj.CoreCompileInputs.cache
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\obj\Debug\net8.0\HelloWorld_Magana_Nathan.sourcelink.json
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\obj\Debug\net8.0\HelloWorld_Magana_Nathan.dll
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\obj\Debug\net8.0\refint\HelloWorld_Magana_Nathan.dll
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\obj\Debug\net8.0\HelloWorld_Magana_Nathan.pdb
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\obj\Debug\net8.0\HelloWorld_Magana_Nathan.genruntimeconfig.cache
+C:\Users\NATHANMAGANA\OneDrive - Green Country Technology Center\Documents\Visual Studio 2022\HelloWorld_Magana_Nathan\obj\Debug\net8.0\ref\HelloWorld_Magana_Nathan.dll
